@@ -1,4 +1,4 @@
-runtime: php8.1
+runtime: php7.1
 api_version: 1
 handlers:
 - url: /
