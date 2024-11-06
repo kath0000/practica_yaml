@@ -1,4 +1,4 @@
-runtime: php55
+runtime: php8.1
 api_version: 1
 handlers:
 - url: /
